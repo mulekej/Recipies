@@ -11,6 +11,7 @@
 * Green Onion - 12
 * Salt - To Taste
 * Freshly Ground Pepper - To Taste
+* Neutral Oil
 
 
 ### Liquid
@@ -29,6 +30,8 @@
 * Crock Pot
 * Cutting Board
 * Chef Knife
+* Measuring Cups
+* Couple bowls holding prepped ingredients
 
 ## Instructions
 ### Prep Veg
@@ -46,6 +49,40 @@
 2. Finely Dice the Celery
 3. Dice Garlic
 4. Dice Green Onion
+5. Toss into Crock Pot
+
+### Large Veg
+1. Cut remaining potatoes (~5) and carrots into bite size piece.
+2. Set aside.
+
+### Stewing Liquid
+1. Combine Wine, Stock, Worcestershire Sauce, and Hot Sauce into large Measuring Cup
+2. Set aside.
+
+> We'll use the liquid to de-glaze the pan after browning the Beef.
+>
+{style="note"}
+
+### Beef Prep
+1. Cut Roast into 4 pieces.
+2. Salt and Pepper on all sides.
+
+### Cooking
+1. Heat Pan to Medium-High with a bit of oil.
+2. Brown each piece of Meat for 3 min per wide side and 1 min per edge.
+3. Toss each piece into CrockPot as it's done.
+4. Add Chopped Veg to the pan and cook until softened.
+5. Add 1/4 to 1/2 of the Wine Liquid to the pan to deglaze.
+6. Stir using rubber spatula to scrap up all the meaty bits of the bottom.
+7. Add several grind of black pepper to the liquid.
+8. Once done with deglazing, add to CrockPot.
+9. Add remaining Wine Mixture  and Large Veg to Crockpot.
+10. Set Crockpot to low and let cook for a couple of hours.
+
+
+
+
+
 
 
 
